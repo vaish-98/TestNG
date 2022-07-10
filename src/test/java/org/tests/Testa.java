@@ -17,6 +17,14 @@ public class Testa {
 		// TODO Auto-generated method stub
 
 	}
+	private void tc9() {
+		// TODO Auto-generated method stub
+
+	}
+	private void tc10() {
+		// TODO Auto-generated method stub
+
+	}
 	
 
 }
